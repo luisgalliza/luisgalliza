@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Luis Galliza
+# 👨🏽‍💻 Luis Galliza
 
 **`Desenvolvedor Front-end Júnior`**
 
