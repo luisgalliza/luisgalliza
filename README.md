@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Luis Galliza
 
-Me chamo Luis Galliza, tenho 19 anos e sou natural de Recife. Concluí o ensino médio no Colégio Boa Viagem (CBV). Atualmente, estou cursando Sistema da Informação na Cesar School. Gosto de tecnologia e compartilho meu conhecimento através do meu LinkedIn [Luis Galliza](https://www.linkedin.com/in/luis-galliza-477b81365), onde mostro minhas conquistas dentro da área.
+Me chamo Luis Galliza, tenho 20 anos e sou natural de Recife. Concluí o ensino médio no Colégio Boa Viagem (CBV). Atualmente, estou cursando Sistema da Informação na Cesar School. Gosto de tecnologia e compartilho meu conhecimento através do meu LinkedIn [Luis Galliza](https://www.linkedin.com/in/luis-galliza-477b81365), onde mostro minhas conquistas dentro da área.
 
 <p align="left">
   <a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers">
