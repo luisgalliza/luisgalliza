@@ -1,25 +1,12 @@
 # 🧑🏻‍💻 Luis Galliza
 
-Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em formação, com foco em **backend e frontend**. Tenho interesse em estágio na área de desenvolvimento de software e estou sempre buscando evoluir por meio de projetos práticos e estudo contínuo.
+## 🇧🇷 Português (BR)
+
+Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em formação, com foco em **backend e frontend**. Busco uma **oportunidade de estágio** na área de desenvolvimento de software, onde eu possa aplicar e evoluir minhas habilidades técnicas, contribuindo para a criação de aplicações web eficientes, bem estruturadas e com boa experiência de uso.
 
 ---
 
-## 🎯 Objetivo
-
-Busco uma **oportunidade de estágio** onde eu possa aplicar e desenvolver habilidades em **backend e frontend**, contribuindo para a criação de aplicações web eficientes, bem estruturadas e com boa experiência de uso.
-
----
-
-## 🧠 Áreas de Interesse
-
-* Desenvolvimento **Backend** (lógica, APIs e banco de dados)
-* Desenvolvimento **Frontend** (interfaces, usabilidade e responsividade)
-* Aplicações Web
-* Boas práticas de código e aprendizado contínuo
-
----
-
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 > Tecnologias que utilizo e estudo atualmente
 
@@ -31,7 +18,7 @@ Busco uma **oportunidade de estágio** onde eu possa aplicar e desenvolver habil
 
 ---
 
-## 📚 O que você encontra aqui
+### 📚 O que você encontra aqui
 
 * Projetos de estudo
 * Exercícios práticos
@@ -40,30 +27,9 @@ Busco uma **oportunidade de estágio** onde eu possa aplicar e desenvolver habil
 
 ---
 
-## 🔗 Conecte-se comigo
+### 🔗 Conecte-se comigo
 
-* LinkedIn: [[Luis Galliza](https://www.linkedin.com/in/luis-galliza-477b81365)]
-
----
-
-⭐ Fique à vontade para explorar os repositórios e acompanhar minha evolução!
-
-<p align="left">
-  <a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/luisgalliza?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
+* LinkedIn: [Luis Galliza]((https://www.linkedin.com/in/luis-galliza-b267463a0/))
 
 ---
 
@@ -107,3 +73,38 @@ Busco uma **oportunidade de estágio** onde eu possa aplicar e desenvolver habil
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgalliza&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+---
+
+## 🇺🇸 English (US)
+
+I am a **Systems Information** student at **Cesar School** and a developer in training, focused on **backend and frontend** development. I am seeking an **internship opportunity** in software development where I can apply and further develop my technical skills, contributing to efficient, well-structured web applications with a solid user experience.
+
+---
+
+### 🛠️ Technologies
+
+> Technologies I currently use and study
+
+* **Languages:** Python | JavaScript
+* **Frontend:** HTML | CSS
+* **Backend:** REST APIs *(learning)*
+* **Databases:** SQL *(learning)*
+* **Tools:** Git | GitHub
+
+---
+
+### 📚 What you will find here
+
+* Study projects
+* Practical exercises
+* Backend and frontend experiments
+* A record of my growth as a developer
+
+---
+
+### 🔗 Connect with me
+
+* LinkedIn: [Luis Galliza]((https://www.linkedin.com/in/luis-galliza-b267463a0/))
+
+---
