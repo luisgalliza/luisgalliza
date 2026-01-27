@@ -1,7 +1,5 @@
 # 🧑🏻‍💻 Luis Galliza
 
-# 👋 Olá, eu sou o Luis Galliza
-
 Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em formação, com foco em **backend e frontend**. Tenho interesse em estágio na área de desenvolvimento de software e estou sempre buscando evoluir por meio de projetos práticos e estudo contínuo.
 
 ---
