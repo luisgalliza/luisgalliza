@@ -42,7 +42,7 @@ Busco uma **oportunidade de estágio** onde eu possa aplicar e desenvolver habil
 
 ## 🔗 Conecte-se comigo
 
-* LinkedIn: [[https://www.linkedin.com/in/luis-galliza-477b81365](https://www.linkedin.com/in/luis-galliza-477b81365)]
+* LinkedIn: [[Luis Galliza](https://www.linkedin.com/in/luis-galliza-477b81365)]
 
 ---
 
