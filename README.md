@@ -1,6 +1,54 @@
 # 🧑🏻‍💻 Luis Galliza
 
-Me chamo Luis Galliza, tenho 20 anos e sou natural de Recife. Concluí o ensino médio no Colégio Boa Viagem (CBV). Atualmente, estou cursando Sistema da Informação na Cesar School. Gosto de tecnologia e compartilho meu conhecimento através do meu LinkedIn [Luis Galliza](https://www.linkedin.com/in/luis-galliza-477b81365), onde mostro minhas conquistas dentro da área.
+# 👋 Olá, eu sou o Luis Galliza
+
+Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em formação, com foco em **backend e frontend**. Tenho interesse em estágio na área de desenvolvimento de software e estou sempre buscando evoluir por meio de projetos práticos e estudo contínuo.
+
+---
+
+## 🎯 Objetivo
+
+Busco uma **oportunidade de estágio** onde eu possa aplicar e desenvolver habilidades em **backend e frontend**, contribuindo para a criação de aplicações web eficientes, bem estruturadas e com boa experiência de uso.
+
+---
+
+## 🧠 Áreas de Interesse
+
+* Desenvolvimento **Backend** (lógica, APIs, banco de dados)
+* Desenvolvimento **Frontend** (interfaces, usabilidade, responsividade)
+* Aplicações Web
+* Boas práticas de código e aprendizado contínuo
+
+---
+
+## 🛠️ Tecnologias
+
+> (em constante evolução)
+
+* **Linguagens:** Python | JavaScript
+* **Frontend:** HTML | CSS
+* **Backend:** APIs REST
+* **Banco de Dados:** SQL
+* **Ferramentas:** Git | GitHub
+
+---
+
+## 📚 O que você encontra aqui
+
+* Projetos de estudo
+* Exercícios práticos
+* Experimentos com backend e frontend
+* Evolução como desenvolvedor
+
+---
+
+## 🔗 Conecte-se comigo
+
+* LinkedIn: [https://www.linkedin.com/in/luis-galliza-477b81365](https://www.linkedin.com/in/luis-galliza-477b81365)
+
+---
+
+⭐ Fique à vontade para explorar os repositórios e acompanhar minha evolução!
 
 <p align="left">
   <a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers">
