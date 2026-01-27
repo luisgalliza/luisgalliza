@@ -108,3 +108,7 @@ I am a **Systems Information** student at **Cesar School** and a developer in tr
 * LinkedIn: [Luis Galliza](https://www.linkedin.com/in/luis-galliza-b267463a0/)
 
 ---
+
+### 🚀 Projetos em Destaque
+
+---
