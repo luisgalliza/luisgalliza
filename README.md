@@ -12,8 +12,8 @@ Busco uma **oportunidade de estágio** onde eu possa aplicar e desenvolver habil
 
 ## 🧠 Áreas de Interesse
 
-* Desenvolvimento **Backend** (lógica, APIs, banco de dados)
-* Desenvolvimento **Frontend** (interfaces, usabilidade, responsividade)
+* Desenvolvimento **Backend** (lógica, APIs e banco de dados)
+* Desenvolvimento **Frontend** (interfaces, usabilidade e responsividade)
 * Aplicações Web
 * Boas práticas de código e aprendizado contínuo
 
@@ -21,12 +21,12 @@ Busco uma **oportunidade de estágio** onde eu possa aplicar e desenvolver habil
 
 ## 🛠️ Tecnologias
 
-> (em constante evolução)
+> Tecnologias que utilizo e estudo atualmente
 
 * **Linguagens:** Python | JavaScript
 * **Frontend:** HTML | CSS
-* **Backend:** APIs REST
-* **Banco de Dados:** SQL
+* **Backend:** APIs REST *(em aprendizado)*
+* **Banco de Dados:** SQL *(em aprendizado)*
 * **Ferramentas:** Git | GitHub
 
 ---
@@ -36,13 +36,13 @@ Busco uma **oportunidade de estágio** onde eu possa aplicar e desenvolver habil
 * Projetos de estudo
 * Exercícios práticos
 * Experimentos com backend e frontend
-* Evolução como desenvolvedor
+* Registro da minha evolução como desenvolvedor
 
 ---
 
 ## 🔗 Conecte-se comigo
 
-* LinkedIn: [https://www.linkedin.com/in/luis-galliza-477b81365](https://www.linkedin.com/in/luis-galliza-477b81365)
+* LinkedIn: [[https://www.linkedin.com/in/luis-galliza-477b81365](https://www.linkedin.com/in/luis-galliza-477b81365)]
 
 ---
 
