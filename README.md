@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Luis Galliza
 
-## 🇧🇷 Português (BR)
+## 🇧🇷 Português
 
 Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em formação, com foco em **backend e frontend**. Busco uma **oportunidade de estágio** na área de desenvolvimento de software, onde eu possa aplicar e evoluir minhas habilidades técnicas, contribuindo para a criação de aplicações web eficientes, bem estruturadas e com boa experiência de uso.
 
@@ -29,7 +29,7 @@ Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em
 
 ### 🔗 Conecte-se comigo
 
-* LinkedIn: [Luis Galliza]((https://www.linkedin.com/in/luis-galliza-b267463a0/))
+* LinkedIn: [Luis Galliza](https://www.linkedin.com/in/luis-galliza-b267463a0/)
 
 ---
 
@@ -76,7 +76,7 @@ Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em
 
 ---
 
-## 🇺🇸 English (US)
+## 🇺🇸 English
 
 I am a **Systems Information** student at **Cesar School** and a developer in training, focused on **backend and frontend** development. I am seeking an **internship opportunity** in software development where I can apply and further develop my technical skills, contributing to efficient, well-structured web applications with a solid user experience.
 
@@ -105,6 +105,6 @@ I am a **Systems Information** student at **Cesar School** and a developer in tr
 
 ### 🔗 Connect with me
 
-* LinkedIn: [Luis Galliza]((https://www.linkedin.com/in/luis-galliza-b267463a0/))
+* LinkedIn: [Luis Galliza](https://www.linkedin.com/in/luis-galliza-b267463a0/)
 
 ---
