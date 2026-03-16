@@ -49,7 +49,7 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
 **⚡FLICK FORCE – Projeto Arduino**
 Flick Force é um projeto desenvolvido na disciplina de Sistemas Digitais utilizando Arduino. O sistema utiliza um sensor para detectar o impacto de um peteleco e medir sua intensidade, exibindo o resultado para o usuário. O objetivo do projeto foi aplicar conceitos de eletrônica básica, sensores e programação embarcada na construção de um protótipo funcional.
 
-## Technologies
+## 🟦 Technologies
 
 ### Hardware
 - Arduino;
