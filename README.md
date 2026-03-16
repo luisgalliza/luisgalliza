@@ -1,4 +1,8 @@
 # 🧑🏻‍💻 Olá, eu sou Luis Galliza
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Galliza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-galliza)
+
 <p align="left">
       <a href="https://github.com/luisgalliza?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -7,8 +11,6 @@
    </p>
    
 **`💻 Computer Science Student | 🌐 Interested in Software Development`**
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Galliza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-galliza)
    
 ## 🇧🇷 Português (BR) 
 Estudante de **Ciência da Computação** e desenvolvedor em formação, interessado em desenvolvimento de software e aplicações web. Atualmente foco em **aprender e desenvolver projetos práticos** para fortalecer minhas bases em programação e engenharia de software.
