@@ -1,13 +1,21 @@
 # 🧑🏻‍💻 Olá, eu sou Luis Galliza
 <p align="left">
-      <a href="https://github.com/luisgalliza?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
- <a href="https://www.linkedin.com/in/luis-galliza" target="_blank">
-  <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-243B55?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-   </p>
+  <a href="https://github.com/luisgalliza?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/luis-galliza" target="_blank">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-243B55?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/luisgalliza_/" target="_blank">
+    <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-3b0a45?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
    
 **`💻 Computer Science Student | 🌐 Interested in Software Development`**
    
