@@ -39,13 +39,14 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
 <p>
 <img alt="Git" title="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img alt="GitHub" title="GitHub" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img alt="VsCode" title="VsCode" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 </p>
 
 ---
-### 📌 Projects / Projetos
+### 🚀 Projects
 
 #### 🇧🇷 Português
-**FLICK FORCE – Projeto Arduino**
+**⚡FLICK FORCE – Projeto Arduino**
 Flick Force é um projeto desenvolvido na disciplina de Sistemas Digitais utilizando Arduino. O sistema utiliza um sensor para detectar o impacto de um peteleco e medir sua intensidade, exibindo o resultado para o usuário. O objetivo do projeto foi aplicar conceitos de eletrônica básica, sensores e programação embarcada na construção de um protótipo funcional.
 
 ## Technologies
@@ -65,7 +66,7 @@ Flick Force é um projeto desenvolvido na disciplina de Sistemas Digitais utiliz
  
 ---
 #### 🇺🇸 English
-**FLICK FORCE – Arduino Project**
+**⚡FLICK FORCE – Arduino Project**
 Flick Force is a project developed in the Digital Systems course using Arduino. The system uses a sensor to detect the impact of a finger flick and measure its intensity, displaying the result to the user. The project aimed to apply concepts of basic electronics, sensors and embedded programming to build a functional prototype.
 
 ---
