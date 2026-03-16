@@ -1,4 +1,6 @@
 # 🧑🏻‍💻 Olá, eu sou Luis Galliza
+### Connect with me
+
 <p align="left">
   <a href="https://github.com/luisgalliza?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -13,7 +15,7 @@
   </a>
 
   <a href="https://www.instagram.com/luisgalliza_/" target="_blank">
-    <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-3b0a45?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
    
