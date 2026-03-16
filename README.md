@@ -5,7 +5,7 @@
       <a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://www.linkedin.com/in/luis-galliza" target="_blank">
-  <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luis%20Galliza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luis%20Galliza-1E3A5F?style=for-the-badge&labelColor=1E3A5F&logo=linkedin&logoColor=white&color=1E3A5F"/>
 </a>
    </p>
    
