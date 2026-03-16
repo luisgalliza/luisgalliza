@@ -1,4 +1,5 @@
 # 🧑🏻‍💻 Luis Galliza
+**`Software Development`**
 
 ## 🇧🇷 Português (BR)
 
