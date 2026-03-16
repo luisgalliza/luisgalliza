@@ -7,6 +7,8 @@
    </p>
    
 **`💻 Computer Science Student | 🌐 Interested in Software Development`**
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Galliza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-galliza)
    
 ## 🇧🇷 Português (BR) 
 Estudante de **Ciência da Computação** e desenvolvedor em formação, interessado em desenvolvimento de software e aplicações web. Atualmente foco em **aprender e desenvolver projetos práticos** para fortalecer minhas bases em programação e engenharia de software.
@@ -22,20 +24,20 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
 
 #### Frontend
 <p>
-<img alt="HTML5" title="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img alt="CSS3" title="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img alt="HTML5" title="HTML5" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img alt="CSS3" title="CSS3" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 </p>
 
 #### Backend
 <p>
-<img alt="Python" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img alt="Python" title="Python" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
 
 #### Tools
 <p>
-<img alt="Git" title="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img alt="GitHub" title="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img alt="Git" title="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 </p>
 
 ---
