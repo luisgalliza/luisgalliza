@@ -1,5 +1,4 @@
 # 🧑🏻‍💻 Luis Galliza
-**`Software Development`**
 <p align="left">
       <a href="https://github.com/luisgalliza?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -7,40 +6,17 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
-## 🇧🇷 Português (BR)
+**`Software Development`**
+   
+## 🇧🇷 Português (BR) 
+Estudante de **Ciência da Computação** e desenvolvedor em formação, interessado em desenvolvimento de software e aplicações web. Atualmente foco em **aprender e desenvolver projetos práticos** para fortalecer minhas bases em programação e engenharia de software.
 
-Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em formação, com foco em **backend e frontend**. Busco uma **oportunidade de estágio** na área de desenvolvimento de software, onde eu possa aplicar e evoluir minhas habilidades técnicas, contribuindo para a criação de aplicações web eficientes, bem estruturadas e com boa experiência de uso.
-
----
-
-### 🛠️ Tecnologias
-
-> Tecnologias que utilizo e estudo atualmente
-
-* **Linguagens:** Python | JavaScript
-* **Frontend:** HTML | CSS
-* **Backend:** APIs REST *(em aprendizado)*
-* **Banco de Dados:** SQL *(em aprendizado)*
-* **Ferramentas:** Git | GitHub
+## 🇺🇸 English (US)
+**Computer Science** student and aspiring software developer interested in software development and web applications. Currently focused on **learning and building practical projects** to strengthen my foundations in programming and software engineering.
 
 ---
 
-### 📚 O que você encontra aqui
-
-* Projetos de estudo
-* Exercícios práticos
-* Experimentos com backend e frontend
-* Registro da minha evolução como desenvolvedor
-
----
-
-### 🔗 Conecte-se comigo
-
-* LinkedIn: [Luis Galliza](https://www.linkedin.com/in/luis-galliza-b267463a0/)
-
----
-
-### 🤖 Tech Stack
+### 🤖 Technologies
 
 <p align="left">
   <img 
