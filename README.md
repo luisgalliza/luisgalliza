@@ -20,17 +20,23 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
 
 ### 🤖 Technologies
 
-## Frontend 
-<img alt="HTML5" title="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt="CSS3" title="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+#### Frontend
+<p>
+<img alt="HTML5" title="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img alt="CSS3" title="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</p>
 
-## Backend
-<img alt="Python" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+#### Backend
+<p>
+<img alt="Python" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</p>
 
-## Tools
-<img alt="Git" title="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="GitHub" title="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+#### Tools
+<p>
+<img alt="Git" title="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+</p>
 
 ---
 ### 📌 Projects / Projetos
@@ -42,20 +48,20 @@ Flick Force é um projeto desenvolvido na disciplina de Sistemas Digitais utiliz
 ## Technologies
 
 ### Hardware
-- Arduino
-- Impact / vibration sensor
-- LCD display (if used)
-- Buzzer (if used)
-- Breadboard
-- Jump wires
-- Resistors
+- Arduino;
+- Impact / vibration sensor;
+- LCD display;
+- Buzzer;
+- Breadboard;
+- Jump wires;
+- Resistors.
 
 ### Software
-- Arduino IDE
-- C/C++ (Arduino language)
+- Arduino IDE;
+- C/C++ (Arduino language).
  
+---
 #### 🇺🇸 English
-
 **FLICK FORCE – Arduino Project**
 Flick Force is a project developed in the Digital Systems course using Arduino. The system uses a sensor to detect the impact of a finger flick and measure its intensity, displaying the result to the user. The project aimed to apply concepts of basic electronics, sensors and embedded programming to build a functional prototype.
 
