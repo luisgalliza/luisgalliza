@@ -60,6 +60,12 @@ Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
+  <img 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
 </p>
 
 ---
