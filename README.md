@@ -1,16 +1,16 @@
 # 🧑🏻‍💻 Luis Galliza
 **`Software Development`**
-
-## 🇧🇷 Português (BR)
-
-Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em formação, com foco em **backend e frontend**. Busco uma **oportunidade de estágio** na área de desenvolvimento de software, onde eu possa aplicar e evoluir minhas habilidades técnicas, contribuindo para a criação de aplicações web eficientes, bem estruturadas e com boa experiência de uso.
-
 <p align="left">
       <a href="https://github.com/luisgalliza?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   
+## 🇧🇷 Português (BR)
+
+Sou estudante de **Sistemas de Informação na Cesar School** e desenvolvedor em formação, com foco em **backend e frontend**. Busco uma **oportunidade de estágio** na área de desenvolvimento de software, onde eu possa aplicar e evoluir minhas habilidades técnicas, contribuindo para a criação de aplicações web eficientes, bem estruturadas e com boa experiência de uso.
+
 ---
 
 ### 🛠️ Tecnologias
