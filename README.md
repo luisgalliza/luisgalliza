@@ -18,18 +18,27 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
 
 ### 🤖 Technologies
 
-**Frontend:**  
-<img alt="HTML5" title="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt="CSS3" title="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-**Backend:**  
-<img alt="Python" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-**Tools:**  
-<img alt="Git" title="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="GitHub" title="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
+<table>
+  <tr>
+    <td valign="top">
+      <strong>Frontend</strong><br><br>
+      <img alt="HTML5" title="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      <img alt="CSS3" title="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    </td>
+    <td width="40"></td>
+    <td valign="top">
+      <strong>Backend</strong><br><br>
+      <img alt="Python" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    </td>
+    <td width="40"></td>
+    <td valign="top">
+      <strong>Tools</strong><br><br>
+      <img alt="Git" title="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      <img alt="GitHub" title="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 Statistics
