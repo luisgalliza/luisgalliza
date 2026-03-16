@@ -77,3 +77,11 @@ Flick Force is a project developed in the Digital Systems course using Arduino. 
   <img height="155px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luisgalliza&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img height="155px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luisgalliza&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
+
+---
+
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luisgalliza/lusigalliza/output/github-contribution-grid-snake.svg">
+</picture>
