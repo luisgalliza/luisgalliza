@@ -70,38 +70,3 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgalliza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
----
-
-## 🇺🇸 English (US)
-
-I am a **Systems Information** student at **Cesar School** and a developer in training, focused on **backend and frontend** development. I am seeking an **internship opportunity** in software development where I can apply and further develop my technical skills, contributing to efficient, well-structured web applications with a solid user experience.
-
----
-
-### 🛠️ Technologies
-
-> Technologies I currently use and study
-
-* **Languages:** Python | JavaScript
-* **Frontend:** HTML | CSS
-* **Backend:** REST APIs *(learning)*
-* **Databases:** SQL *(learning)*
-* **Tools:** Git | GitHub
-
----
-
-### 📚 What you will find here
-
-* Study projects
-* Practical exercises
-* Backend and frontend experiments
-* A record of my growth as a developer
-
----
-
-### 🔗 Connect with me
-
-* LinkedIn: [Luis Galliza](https://www.linkedin.com/in/luis-galliza-b267463a0/)
-
----
