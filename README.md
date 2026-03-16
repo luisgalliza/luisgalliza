@@ -18,19 +18,17 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
 
 ### 🤖 Technologies
 
-<p>
-  <strong>Frontend:</strong>
-  <img alt="HTML5" title="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <strong>Backend:</strong>
-  <img alt="Python" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <strong>Tools:</strong>
-  <img alt="Git" title="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-</p>
+**Frontend:**  
+<img alt="HTML5" title="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img alt="CSS3" title="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+**Backend:**  
+<img alt="Python" title="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+**Tools:**  
+<img alt="Git" title="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img alt="GitHub" title="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 ---
 
