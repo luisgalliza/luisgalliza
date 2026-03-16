@@ -2,20 +2,20 @@
 ### Connect with me
 
 <p align="left">
-  <a href="https://github.com/luisgalliza?tab=followers" style="text-decoration: none;">
-    <img alt="followers" title="Follow me on GitHub" style="vertical-align: middle;" src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers" style="text-decoration: none;">
-    <img alt="total stars" title="Total stars on GitHub" style="vertical-align: middle;" src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luis-galliza" target="_blank" style="text-decoration: none;">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" style="vertical-align: middle;" src="https://img.shields.io/badge/LinkedIn-243B55?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/luisgalliza_/" target="_blank" style="text-decoration: none;">
-    <img alt="Instagram" title="Follow me on Instagram" style="vertical-align: middle;" src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:luiscbggomes@gmail.com" style="text-decoration: none;">
-    <img alt="Gmail" title="Send me an email" style="vertical-align: middle;" src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/luisgalliza?tab=followers" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" style="display:block; border:0;"/>
+  </a><!--
+  --><a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star" style="display:block; border:0;"/>
+  </a><!--
+  --><a href="https://www.linkedin.com/in/luis-galliza" target="_blank" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-243B55?style=for-the-badge&logo=linkedin&logoColor=white" style="display:block; border:0;"/>
+  </a><!--
+  --><a href="https://www.instagram.com/luisgalliza_/" target="_blank" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
+    <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" style="display:block; border:0;"/>
+  </a><!--
+  --><a href="mailto:luiscbggomes@gmail.com" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
+    <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" style="display:block; border:0;"/>
   </a>
 </p>
    
