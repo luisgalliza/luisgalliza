@@ -55,11 +55,19 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
 
 ### 📊 Estatísticas
 
-<p align="left">
+<p>
   <img 
-    alt="Linguagens mais usadas" 
+    align="left" 
+    alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgalliza&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luisgalliza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgalliza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
