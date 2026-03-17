@@ -9,8 +9,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star" style="display:block; border:0;"/>
   </a><!--
   --><a href="https://www.linkedin.com/in/luis-galliza" target="_blank" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-243B55?style=for-the-badge&logo=linkedin&logoColor=white" style="display:block; border:0;"/>
-  </a><!--
+  <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-243B55?style=for-the-badge&logo=linkedin&logoColor=white" style="display:block; border:0;"/>
+</a><!--
   --><a href="https://www.instagram.com/luisgalliza_/" target="_blank" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
     <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" style="display:block; border:0;"/>
   </a><!--
