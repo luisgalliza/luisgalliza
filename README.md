@@ -19,16 +19,15 @@
   </a>
 </p>
    
-**`💻 Computer Science Student | 🌐 Interested in Software Development`**
+**`💻 Computer Science Student | 🌐 Aspiring Software Developer`**
    
 ## 🇧🇷 Português (BR) 
-Estudante de **Ciência da Computação** e desenvolvedor em formação, interessado em desenvolvimento de software e aplicações web. Atualmente foco em **aprender e desenvolver projetos práticos** para fortalecer minhas bases em programação e engenharia de software.
-**Interesses:** desenvolvimento web, backend, engenharia de software e construção de projetos práticos.
+Estudante de **Ciência da Computação** e desenvolvedor em formação, interessado em desenvolvimento de software e aplicações web. Atualmente, foco em aprimorar minhas habilidades em programação e engenharia de software por meio de projetos práticos.
+**Interesses:** desenvolvimento web, backend, engenharia de software e construção de soluções.
 
 ## 🇺🇸 English (US)
-**Computer Science** student and aspiring software developer interested in software development and web applications. Currently focused on **learning and building practical projects** to strengthen my foundations in programming and software engineering.
-**Interests:** web development, backend systems and building practical software projects.
-
+**Computer Science** student and aspiring software developer interested in software development and web applications. Currently focused on improving my programming and software engineering skills through practical projects.
+**Interests:** web development, backend, software engineering, and building practical solutions.
 ---
 <table>
   <tr>
