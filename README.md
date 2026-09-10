@@ -35,18 +35,18 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
 
 ### 🤖 My Stack
 
-#### Frontend
-<p>
-  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-</p>
-
-#### Backend
+#### Languages
 <p align="left">
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   &nbsp;&nbsp;
   <img alt="C++" title="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+</p>
+
+#### Web
+<p>
+  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </p>
 
 #### Tools
@@ -54,14 +54,15 @@ Estudante de **Ciência da Computação** e desenvolvedor em formação, interes
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
   <img alt="VS Code" title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img alt="Arduino IDE" title="Arduino IDE" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
 </p>
-
+          
 ---
 ### 🚀 Projects
 
 #### 🇧🇷 Português
 **⚡FLICK FORCE – Projeto Arduino**
-Flick Force é um projeto desenvolvido na disciplina de Sistemas Digitais utilizando Arduino. O sistema utiliza um sensor para detectar o impacto de um peteleco e medir sua intensidade, exibindo o resultado para o usuário. O objetivo do projeto foi aplicar conceitos de eletrônica básica, sensores e programação embarcada na construção de um protótipo funcional.
+Projeto desenvolvido na disciplina de Sistemas Digitais utilizando Arduino para detectar e medir a intensidade do impacto de um peteleco. O sistema utiliza um sensor de impacto, LCD e sinalização visual/sonora para apresentar o resultado ao usuário.
 
 ## 🟦 Technologies
 
@@ -70,13 +71,11 @@ Flick Force é um projeto desenvolvido na disciplina de Sistemas Digitais utiliz
 - Impact / vibration sensor
 - LCD display
 - Buzzer
-- Breadboard
-- Jump wires
-- Resistors
+- LEDs
 
 ### Software
+- C/C++
 - Arduino IDE
-- C/C++ (Arduino language)
  
 ---
 #### 🇺🇸 English
