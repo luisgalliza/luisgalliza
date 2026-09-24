@@ -1,7 +1,12 @@
 <!-- BANNER CINZA ESCURO GRAFITE COM NOME BRANCO -->
 <p align="center" style="margin-bottom: 0px;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Luis%20Galliza&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=twinkle&color=auto&customColorList=0:1C1E24,100:2B2D42&fontFamily=Playfair+Display" alt="Header Luis Galliza" />
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Luis%20Galliza&fontSize=52&fontColor=1F448C&fontAlign=50&fontAlignY=40&animation=twinkle&color=B5B5B5&fontFamily=Playfair+Display" 
+    alt="Header Luis Galliza" 
+  />
 </p>
+
 
 <!-- TÍTULO BEM PERTO DO BANNER -->
 <h1 align="center" style="margin-top: 5px; margin-bottom: 10px;">
