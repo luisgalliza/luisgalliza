@@ -1,36 +1,35 @@
-<!-- BANNER BEGE E AZUL MARINHO -->
+<!-- BANNER BEGE COM NOME PRETO -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Luis%20Galliza&fontSize=52&fontColor=1B3B6F&fontAlign=50&fontAlignY=40&animation=twinkle&color=F5EBE0&fontFamily=Playfair+Display" alt="Header Luis Galliza" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Luis%20Galliza&fontSize=52&fontColor=000000&fontAlign=50&fontAlignY=40&animation=twinkle&color=F5EBE0&fontFamily=Playfair+Display" alt="Header Luis Galliza" />
 </p>
 
-<!-- TÍTULO DE BOAS-VINDAS CENTRALIZADO E MAIOR -->
-<h1 align="center" style="color: #1B3B6F; font-size: 2.2em; font-weight: 700;">
-  ✨ Welcome to Luis Galliza's Profile ✨
+<!-- TÍTULO DE BOAS-VINDAS -->
+<h1 align="center">
+  💻 Welcome to Luis Galliza's Profile 
 </h1>
 
-<!-- BARRA DIVISÓRIA GROSSA E ESTILIZADA -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-804d-6218151241f3.png" width="100%" height="4px" />
-</p>
+<!-- LINHA DIVISÓRIA LIMPA -->
+<hr />
 
 <br />
 
-<!-- ESTRUTURA EM COLUNAS COM TABELA INVISÍVEL -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td width="48%" valign="top" style="border: none; padding-right: 15px; background: transparent;">
+<!-- ESTRUTURA EM DIVS (SEM ERRO DE TD) -->
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 👨‍💻 Sobre mim
+
 Olá! Sou estudante de **Ciência da Computação** na UNINASSAU (2º período), focado em construir uma base sólida em arquitetura de software, algoritmos e resolução eficiente de problemas.
 
-* 🚀 **Aspirante a Engenheiro de Software:** Dedicado ao estudo de algoritmos, estruturas de dados e boas práticas de programação.
-* 💡 **Mindset de Resolução:** Vejo o código como uma ferramenta para transformar problemas complexos do mundo real em soluções elegantes e escaláveis.
-* 🎯 **Foco Atual:** Aprimorando lógica em **Java/C++** e desenvolvendo aplicações com **Python** e ecossistema **Web**.
-* ⚡ **Hardware & IoT:** Entusiasta de integração entre software e mundo físico através de projetos com **Arduino**.
+- 🚀 **Aspirante a Engenheiro de Software:** Dedicado ao estudo de algoritmos, estruturas de dados e boas práticas de programação.
+- 💡 **Mindset de Resolução:** Vejo o código como uma ferramenta para transformar problemas complexos do mundo real em soluções elegantes e escaláveis.
+- 🎯 **Foco Atual:** Aprimorando lógica em **Java/C++** e desenvolvendo aplicações com **Python** e ecossistema **Web**.
+- ⚡ **Hardware & IoT:** Entusiasta de integração entre software e mundo físico através de projetos com **Arduino**.
 
     </td>
-    <td width="4%" style="border: none;"></td>
-    <td width="48%" valign="top" style="border: none; padding-left: 15px; background: transparent;">
+    <td width="50%" valign="top">
 
 ### 🛠️ Tecnologias & Stack
 
@@ -58,3 +57,4 @@ Olá! Sou estudante de **Ciência da Computação** na UNINASSAU (2º período),
     </td>
   </tr>
 </table>
+</div>
