@@ -2,14 +2,14 @@
 <p align="center" style="margin-bottom: 0px;">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Luis%20Galliza&fontSize=52&fontColor=B5B5B5&fontAlign=50&fontAlignY=40&animation=twinkle&color=1F448C&fontFamily=Playfair+Display" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Luis%20Galliza&fontSize=52&fontColor=D4D4D4&fontAlign=50&fontAlignY=40&animation=twinkle&color=1F448C&fontFamily=Playfair+Display" 
     alt="Header Luis Galliza" 
   />
 </p>
 
 <!-- TÍTULO BEM PERTO DO BANNER -->
 <h1 align="center" style="margin-top: 5px; margin-bottom: 10px;">
-  ✨ Welcome to Luis Galliza's Profile ✨
+  🧑🏻‍💻 Welcome to Luis Galliza's Profile 
 </h1>
 
 <!-- LINHA DIVISÓRIA INTEIRA E NATIVA -->
