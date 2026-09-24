@@ -1,100 +1,136 @@
-# 🧑🏻‍💻 Olá, eu sou Luis Galliza
-### Connect with me
+<h1 align="center">👨🏻‍💻 Olá, eu sou Luis Galliza</h1>
 
-<p align="left">
-  <a href="https://github.com/luisgalliza?tab=followers" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/luisgalliza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" style="display:block; border:0;"/>
-  </a><!--
-  --><a href="https://github.com/luisgalliza?tab=repositories&sort=stargazers" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisgalliza?color=55960c&style=for-the-badge&labelColor=488207&logo=star" style="display:block; border:0;"/>
-  </a><!--
-  --><a href="https://www.linkedin.com/in/luis-galliza" target="_blank" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display:block; border:0;"/>
-  </a><!--
-  --><a href="https://www.instagram.com/luisgalliza_/" target="_blank" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
-    <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" style="display:block; border:0;"/>
-  </a><!--
-  --><a href="mailto:luiscbggomes@gmail.com" style="display:inline-block; line-height:0; text-decoration:none; border:0; outline:none;">
-    <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" style="display:block; border:0;"/>
+<p align="center">
+  <strong>💻 Computer Science Student | 🌐 Aspiring Software Developer</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/luisgalliza">
+    <img src="https://img.shields.io/github/followers/luisgalliza?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/luisgalliza?tab=repositories">
+    <img src="https://img.shields.io/github/stars/luisgalliza?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luis-galliza">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/luisgalliza_/">
+    <img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:luiscbggomes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-   
-**`💻 Computer Science Student | 🌐 Aspiring Software Developer`**
-   
-## 🇧🇷 Português (BR) 
-Estudante de **Ciência da Computação** e desenvolvedor em formação, interessado em desenvolvimento de software e aplicações web. Atualmente, foco em aprimorar minhas habilidades em programação e engenharia de software por meio de projetos práticos.
-**Interesses:** desenvolvimento web, backend, engenharia de software e construção de soluções.
 
-## 🇺🇸 English (US)
-**Computer Science** student and aspiring software developer interested in software development and web applications. Currently focused on improving my programming and software engineering skills through practical projects.
-**Interests:** web development, backend, software engineering, and building practical solutions.
 ---
-<table>
-  <tr>
-    <td valign="top" width="55%">
 
-### 🤖 My Stack
+## 👨🏻‍💻 Sobre mim
 
-#### Languages
-<p align="left">
-  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<p align="center">
+  Estudante de <strong>Ciência da Computação</strong> e desenvolvedor em formação, 
+  interessado em desenvolvimento de software, aplicações web e construção de soluções práticas.
+</p>
+
+<p align="center">
+  Atualmente, estou aprimorando minhas habilidades em programação e engenharia de software
+  por meio de estudos e projetos práticos.
+</p>
+
+<p align="center">
+  <strong>Interesses:</strong> Desenvolvimento Web • Backend • Engenharia de Software • Programação
+</p>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+
+<p align="center">
+  <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   &nbsp;&nbsp;
-  <img alt="C++" title="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="C++" title="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="Java" title="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </p>
 
-#### Web
-<p>
-  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+### 🌐 Web
+
+<p align="center">
+  <img alt="HTML5" title="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="CSS3" title="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </p>
 
-#### Tools
-<p>
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img alt="VS Code" title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img alt="Arduino IDE" title="Arduino IDE" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
-</p>
-          
----
-### 🚀 Projects
+### 🔧 Ferramentas
 
-#### 🇧🇷 Português
-**⚡FLICK FORCE – Projeto Arduino**
-Projeto desenvolvido na disciplina de Sistemas Digitais utilizando Arduino para detectar e medir a intensidade do impacto de um peteleco. O sistema utiliza um sensor de impacto, LCD e sinalização visual/sonora para apresentar o resultado ao usuário.
-
-## 🟦 Technologies
-
-### Hardware
-- Arduino
-- Impact / vibration sensor
-- LCD display
-- Buzzer
-- LEDs
-
-### Software
-- C/C++
-- Arduino IDE
- 
----
-#### 🇺🇸 English
-**⚡FLICK FORCE – Arduino Project**
-Flick Force is a project developed in the Digital Systems course using Arduino. The system uses a sensor to detect the impact of a finger flick and measure its intensity, displaying the result to the user. The project aimed to apply concepts of basic electronics, sensors and embedded programming to build a functional prototype.
-
----
-
-### 📊 Statistics
-
-<p align="left">
-  <img height="155px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luisgalliza&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="155px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luisgalliza&theme=tokyonight&layout=compact&langs_count=8" />
+<p align="center">
+  <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="GitHub" title="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  &nbsp;&nbsp;
+  <img alt="Arduino" title="Arduino" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
 </p>
 
 ---
 
-<picture align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luisgalliza/lusigalliza/output/github-contribution-grid-snake.svg">
-</picture>
+## 🚀 Projeto em destaque
+
+### ⚡ FLICK FORCE — Arduino
+
+<p align="center">
+  <strong>Medidor de Força de Peteleco</strong>
+</p>
+
+Projeto desenvolvido na disciplina de **Sistemas Digitais**, utilizando Arduino para detectar e medir a intensidade do impacto de um peteleco.
+
+O sistema utiliza um sensor de impacto para realizar a leitura, apresentando o resultado por meio de um display LCD e utilizando sinalização visual e sonora.
+
+### 🔩 Hardware
+
+<p align="center">
+
+`Arduino` • `Sensor de impacto` • `LCD` • `Buzzer` • `LEDs`
+
+</p>
+
+### 💻 Software
+
+<p align="center">
+
+`C/C++` • `Arduino IDE`
+
+</p>
+
+O projeto teve como objetivo aplicar conceitos de **eletrônica básica, sensores e programação embarcada** na construção de um protótipo funcional.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=luisgalliza&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Luis Galliza GitHub Statistics"/>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgalliza&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/luisgalliza/luisgalliza/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Always learning, building and improving.</i>
+</p>
