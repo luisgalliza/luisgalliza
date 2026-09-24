@@ -1,15 +1,11 @@
 <!-- BANNER CINZA ESCURO GRAFITE COM NOME BRANCO -->
 <p align="center" style="margin-bottom: 0px;">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Luis%20Galliza&fontSize=52&fontColor=D4D4D4&fontAlign=50&fontAlignY=40&animation=twinkle&color=1F448C&fontFamily=Playfair+Display" 
-    alt="Header Luis Galliza" 
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Luis%20Galliza&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=twinkle&color=auto&customColorList=0:1C1E24,100:2B2D42&fontFamily=Playfair+Display" alt="Header Luis Galliza" />
 </p>
 
 <!-- TÍTULO BEM PERTO DO BANNER -->
 <h1 align="center" style="margin-top: 5px; margin-bottom: 10px;">
-  🧑🏻‍💻 Welcome to Luis Galliza's Profile 
+  ✨ Welcome to Luis Galliza's Profile ✨
 </h1>
 
 <!-- LINHA DIVISÓRIA INTEIRA E NATIVA -->
@@ -59,4 +55,23 @@ Olá! Sou estudante de **Ciência da Computação** na UNINASSAU (2º período),
     </td>
   </tr>
 </table>
+</div>
+
+<br />
+
+<!-- BORDA / ONDA DE TRANSIÇÃO -->
+<div align="center" data-importer="border">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
+
+<br />
+
+<!-- GRÁFICO DO PACMAN DE CONTRIBUIÇÕES -->
+<div align="center">
+  <h3>👾 Git Contributions Game</h3>
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%" />
+  </picture>
 </div>
