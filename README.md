@@ -1,35 +1,35 @@
-<!-- BANNER BEGE COM NOME PRETO -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Luis%20Galliza&fontSize=52&fontColor=000000&fontAlign=50&fontAlignY=40&animation=twinkle&color=F5EBE0&fontFamily=Playfair+Display" alt="Header Luis Galliza" />
+<!-- BANNER CINZA CLARO COM NOME AZUL ESCURO -->
+<p align="center" style="margin-bottom: 0px;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Luis%20Galliza&fontSize=52&fontColor=0D233A&fontAlign=50&fontAlignY=40&animation=twinkle&color=EAEAEA&fontFamily=Playfair+Display" alt="Header Luis Galliza" />
 </p>
 
-<!-- TÍTULO DE BOAS-VINDAS -->
-<h1 align="center">
+<!-- TÍTULO BEM PERTO DO BANNER -->
+<h1 align="center" style="margin-top: 5px; margin-bottom: 10px;">
   💻 Welcome to Luis Galliza's Profile 
 </h1>
 
-<!-- LINHA DIVISÓRIA LIMPA -->
-<hr />
+<!-- BARRA ÚNICA E GROSSA -->
+<p align="center" style="margin-top: 0px; margin-bottom: 15px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-804d-6218151241f3.png" width="100%" height="4px" />
+</p>
 
-<br />
-
-<!-- ESTRUTURA EM DIVS (SEM ERRO DE TD) -->
+<!-- ESTRUTURA COMPACTA EM DIVS -->
 <div align="center">
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-right: 10px;">
 
 ### 👨‍💻 Sobre mim
 
 Olá! Sou estudante de **Ciência da Computação** na UNINASSAU (2º período), focado em construir uma base sólida em arquitetura de software, algoritmos e resolução eficiente de problemas.
 
 - 🚀 **Aspirante a Engenheiro de Software:** Dedicado ao estudo de algoritmos, estruturas de dados e boas práticas de programação.
-- 💡 **Mindset de Resolução:** Vejo o código como uma ferramenta para transformar problemas complexos do mundo real em soluções elegantes e escaláveis.
+- 💡 **Mindset de Resolução:** Vejo o código como uma ferramenta para transformar problemas complexos em soluções elegantes.
 - 🎯 **Foco Atual:** Aprimorando lógica em **Java/C++** e desenvolvendo aplicações com **Python** e ecossistema **Web**.
 - ⚡ **Hardware & IoT:** Entusiasta de integração entre software e mundo físico através de projetos com **Arduino**.
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-left: 10px;">
 
 ### 🛠️ Tecnologias & Stack
 
