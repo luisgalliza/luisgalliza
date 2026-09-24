@@ -1,46 +1,58 @@
+<!-- BANNER BEGE E AZUL MARINHO -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Luis%20Galliza&fontSize=50&fontColor=F5F5DC&fontAlign=50&fontAlignY=40&animation=twinkle&color=1B2A4A&fontFamily=Poppins" alt="Header Luis Galliza" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Luis%20Galliza&fontSize=52&fontColor=1B3B6F&fontAlign=50&fontAlignY=40&animation=twinkle&color=F5EBE0&fontFamily=Playfair+Display" alt="Header Luis Galliza" />
 </p>
-# Welcome to Luis Galliza's Profile
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-804d-6218151241f3.png" width="100%" height="2px" />
+<!-- TÍTULO DE BOAS-VINDAS CENTRALIZADO E MAIOR -->
+<h1 align="center" style="color: #1B3B6F; font-size: 2.2em; font-weight: 700;">
+  ✨ Welcome to Luis Galliza's Profile ✨
+</h1>
+
+<!-- BARRA DIVISÓRIA GROSSA E ESTILIZADA -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-804d-6218151241f3.png" width="100%" height="4px" />
+</p>
 
 <br />
 
-<table border="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+<!-- ESTRUTURA EM COLUNAS COM TABELA INVISÍVEL -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="48%" valign="top" style="border: none; padding-right: 15px; background: transparent;">
 
 ### 👨‍💻 Sobre mim
-* 🎓 Estudante de **Ciência da Computação** na UNINASSAU (2º período).
-* 🎯 Focado em fortalecer a base em **programação, lógica e software**.
-* 💡 Apaixonado por transformar problemas em soluções práticas.
-* 🚀 Buscando evoluir na criação de **códigos limpos e eficientes**.
+Olá! Sou estudante de **Ciência da Computação** na UNINASSAU (2º período), focado em construir uma base sólida em arquitetura de software, algoritmos e resolução eficiente de problemas.
+
+* 🚀 **Aspirante a Engenheiro de Software:** Dedicado ao estudo de algoritmos, estruturas de dados e boas práticas de programação.
+* 💡 **Mindset de Resolução:** Vejo o código como uma ferramenta para transformar problemas complexos do mundo real em soluções elegantes e escaláveis.
+* 🎯 **Foco Atual:** Aprimorando lógica em **Java/C++** e desenvolvendo aplicações com **Python** e ecossistema **Web**.
+* ⚡ **Hardware & IoT:** Entusiasta de integração entre software e mundo físico através de projetos com **Arduino**.
 
     </td>
-    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+    <td width="4%" style="border: none;"></td>
+    <td width="48%" valign="top" style="border: none; padding-left: 15px; background: transparent;">
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Stack
 
-**⚙️ Languages & Backend**
+**⚙️ Core & Backend Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-**🌐 Frontend**
+**🌐 Web Frontend**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**🔧 Tools & Hardware**
+**🔧 DevOps, Tools & Hardware**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
     </td>
