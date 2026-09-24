@@ -59,11 +59,11 @@ Olá! Sou estudante de **Ciência da Computação** na UNINASSAU (2º período),
 
 <br />
 
-<!-- GRÁFICO DO PACMAN DE CONTRIBUIÇÕES -->
+<!-- GRÁFICO DE CONTRIBUIÇÕES DO PACMAN -->
 <p align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph.svg" width="100%" />
   </picture>
 </p>
