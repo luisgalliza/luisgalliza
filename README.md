@@ -59,19 +59,11 @@ Olá! Sou estudante de **Ciência da Computação** na UNINASSAU (2º período),
 
 <br />
 
-<!-- BORDA / ONDA DE TRANSIÇÃO -->
-<div align="center" data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
-
-<br />
-
 <!-- GRÁFICO DO PACMAN DE CONTRIBUIÇÕES -->
-<div align="center">
-  <h3>👾 Git Contributions Game</h3>
+<p align="center">
   <picture data-importer="pacman">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph.svg?game=pacman">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luisgalliza/luisgalliza/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%" />
   </picture>
-</div>
+</p>
