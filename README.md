@@ -1,14 +1,17 @@
-<!-- BANNER CINZA CLARO COM NOME AZUL ESCURO -->
+<!-- BANNER CINZA CLARO COM NOME BRANCO -->
 <p align="center" style="margin-bottom: 0px;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Luis%20Galliza&fontSize=52&fontColor=0D233A&fontAlign=50&fontAlignY=40&animation=twinkle&color=EAEAEA&fontFamily=Playfair+Display" alt="Header Luis Galliza" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Luis%20Galliza&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=twinkle&color=EAEAEA&fontFamily=Playfair+Display" alt="Header Luis Galliza" />
 </p>
 
 <!-- TÍTULO BEM PERTO DO BANNER -->
 <h1 align="center" style="margin-top: 5px; margin-bottom: 10px;">
-  💻 Welcome to Luis Galliza's Profile 
+  ✨ Welcome to Luis Galliza's Profile ✨
 </h1>
 
-<!-- BARRA ÚNICA E GROSSA -->
+<!-- DUAS BARRAS GROSSAS ABAIXO DO WELCOME -->
+<p align="center" style="margin-top: 0px; margin-bottom: 4px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-804d-6218151241f3.png" width="100%" height="4px" />
+</p>
 <p align="center" style="margin-top: 0px; margin-bottom: 15px;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-804d-6218151241f3.png" width="100%" height="4px" />
 </p>
